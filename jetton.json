@@ -3,7 +3,7 @@
   "symbol": "AKI",
   "description": "Official Akimata memecoin",
   "decimals": 9,
-  "image": "https://raw.githubusercontent.com/akimata1/akicoin/main/aki256.png"
+  "image": "https://raw.githubusercontent.com/akimata1/akicoin/main/aki256.png",
   "social_links": ["https://t.me/akimatacoin"],
   "extensions": {
     "telegram": "@akimatacoin"
