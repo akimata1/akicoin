@@ -1,0 +1,11 @@
+{
+  "name": "AKICOIN",
+  "symbol": "AKI",
+  "description": "Official Akimata memecoin",
+  "decimals": 9,
+  "image": "https://cdn.jsdelivr.net/gh/akimata1/akicoin@main/assets/aki256.png",
+  "social_links": ["https://t.me/akimatacoin"],
+  "extensions": {
+    "telegram": "@akimatacoin"
+  }
+}
